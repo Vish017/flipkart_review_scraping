@@ -1,0 +1,4 @@
+Flask
+CORS
+bs4
+requests
